@@ -32,6 +32,5 @@ The dataset contains borrower financial attributes such as income, credit score,
 The dashboard folder contains the screenshot of the Tableau dashboard.
 
 ## Project Structure
-data/ → cleaned dataset  
 notebook/ → Python analysis and SQLite code
 dashboard/ → Tableau dashboard screenshot
