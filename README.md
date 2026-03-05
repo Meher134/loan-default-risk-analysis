@@ -29,8 +29,5 @@ The dataset contains borrower financial attributes such as income, credit score,
 - External credit scores are strong predictors of repayment behavior.
 
 ## Dashboard
-The dashboard folder contains the screenshot of the Tableau dashboard.
+It contains the screenshot of the Tableau dashboard.
 
-## Project Structure
-notebook/ → Python analysis and SQLite code
-dashboard/ → Tableau dashboard screenshot
